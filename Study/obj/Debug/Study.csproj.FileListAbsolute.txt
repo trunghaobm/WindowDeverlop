@@ -1,0 +1,17 @@
+D:\DEV\20202021-HK2\Lập trình Window\Study\Study\obj\Debug\Study.csprojAssemblyReference.cache
+D:\DEV\20202021-HK2\Lập trình Window\Study\Study\obj\Debug\Study.Properties.Resources.resources
+D:\DEV\20202021-HK2\Lập trình Window\Study\Study\obj\Debug\Study.csproj.GenerateResource.cache
+D:\DEV\20202021-HK2\Lập trình Window\Study\Study\obj\Debug\Study.csproj.CoreCompileInputs.cache
+D:\DEV\20202021-HK2\Lập trình Window\Study\Study\bin\Debug\Study.exe.config
+D:\DEV\20202021-HK2\Lập trình Window\Study\Study\bin\Debug\Study.exe
+D:\DEV\20202021-HK2\Lập trình Window\Study\Study\bin\Debug\Study.pdb
+D:\DEV\20202021-HK2\Lập trình Window\Study\Study\bin\Debug\EntityFramework.dll
+D:\DEV\20202021-HK2\Lập trình Window\Study\Study\bin\Debug\EntityFramework.SqlServer.dll
+D:\DEV\20202021-HK2\Lập trình Window\Study\Study\bin\Debug\EntityFramework.xml
+D:\DEV\20202021-HK2\Lập trình Window\Study\Study\bin\Debug\EntityFramework.SqlServer.xml
+D:\DEV\20202021-HK2\Lập trình Window\Study\Study\obj\Debug\Study.csproj.CopyComplete
+D:\DEV\20202021-HK2\Lập trình Window\Study\Study\obj\Debug\Study.exe
+D:\DEV\20202021-HK2\Lập trình Window\Study\Study\obj\Debug\Study.pdb
+D:\DEV\20202021-HK2\Lập trình Window\Study\Study\obj\Debug\Study.Login.resources
+D:\DEV\20202021-HK2\Lập trình Window\Study\Study\obj\Debug\Study.Main.resources
+D:\DEV\20202021-HK2\Lập trình Window\Study\Study\obj\Debug\Study.Student.resources
